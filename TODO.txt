@@ -1,0 +1,9 @@
+TODO
+
+Make webpage
+	Main page with beer info
+	popup with pour amount options
+Make database
+	
+Make webpage and DB talk
+
